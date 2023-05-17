@@ -1,0 +1,6 @@
+[submodule "ecommerce-backend"]
+	path = ecommerce-backend
+	url = https://github.com/aalnamer/SunHavenBackend
+[submodule "ecommerce-frontend"]
+	path = ecommerce-frontend
+	url = https://github.com/aalnamer/SunHavenEcommerce
