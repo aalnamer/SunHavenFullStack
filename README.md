@@ -14,13 +14,13 @@ The `ecommerce-backend` folder contains the code and configurations for the back
 
 To set up the backend locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/aalnamer/SunHavenBackend/tree/b2388ef0efe571e36dfbf76f312404b95e819232`
 2. Navigate to the `ecommerce-backend` folder: `cd ecommerce-backend`
 3. Install dependencies: `npm install`
 4. Set up the database: Ensure you have PostgreSQL installed and running. Create a new PostgreSQL database and update the database connection configuration in `config/database.js`.
 5. Set up environment variables: Create a `.env` file in the root of the `ecommerce-backend` directory and define the required environment variables. For example:
    ```
-   PORT=3000
+   PORT=8080
    STRIPE_SECRET_KEY=your_stripe_secret_key
    DATABASE_URL=your_database_url
    ```
@@ -87,4 +87,4 @@ The Sun Haven E-commerce Store is released under the [MIT License](LICENSE). Fee
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please contact the project maintainers at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or feedback, please contact me at [collaymen.alnamer@gmail.com](mailto:collaymen.alnamer@gmail.com).
